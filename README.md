@@ -8,7 +8,7 @@
 
 * [Động lực nghiên cứu](#dlnc)
 * [Đặc trưng](#dt)
-* [Hướng dẫn sử dụng](#hdsd)
+* [Hướng dẫn](#hdsd)
 * [Người đóng góp](#ndg)
 
 <a name="dlnc"></a>
