@@ -1,0 +1,41 @@
+# Training with brute-force threshold
+python train.py     \
+        --option train      \
+        --attention-matrix availabel    \
+        --save-attention-matrix 0
+
+
+# Training on single threshold ((20, 8) by default)
+python train.py     \
+        --option train_single      \
+        --attention-matrix available    \
+        --save-attention-matrix 1   \
+        --threshold-i 20    \
+        --threshold-j 4
+
+
+# Testing with available provided data in database
+python test_single.py     \
+        --attention-matrix ./data/attention_matrix.csv    \
+        --query-student EAA0B693XPvAibaEXe99j2P15eeB04XwhZ0tzlI4    \
+        --query-subject CS112
+
+
+# Testing with custom data
+python test_custom.py     \
+        --attention-matrix ./data/attention_matrix.csv    \
+        --query-student 2052xxx    \
+        --gender male   \
+        --faculty khmt  \
+        --training-system cqui  \
+        --query-subject CS112   \
+        --query-subject-score 8.1   \
+        --it001 9.3     \
+        --it002 9.3     \
+        --it003 8.6     \
+        --it004 9.2     \
+        --it005 8.5     \
+        --it006 9.9     \
+        --it007 9.0
+
+        python train.py --option train --attention-matrix availabel --save-attention-matrix 0
