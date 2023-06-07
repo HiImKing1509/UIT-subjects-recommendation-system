@@ -38,8 +38,8 @@ ___
 
 Chúng tôi cung cấp mã nguồn mở tại <a href=https://github.com/HiImKing1509/uit_subjects_recommendation_system>repository</a>, hỗ trợ sử dụng cho 2 đối tượng chính:
 
-- **Nhà phát triển**: Cài đặt môi trường, thực hiện nghiên cứu và điều chỉnh mã nguồn với mục tiêu cải thiện chất lượng hệ thống khuyến nghị. 
-- **Người sử dụng**: Nhu cầu sử dụng hệ thống và nhận khuyến nghị môn học.
+- **<a href="https://github.com/HiImKing1509/uit_subjects_recommendation_system/blob/master/README_implementation.md">Nhà phát triển</a>**: Cài đặt môi trường, thực hiện nghiên cứu và điều chỉnh mã nguồn với mục tiêu cải thiện chất lượng hệ thống khuyến nghị. 
+- **<a href="https://github.com/HiImKing1509/uit_subjects_recommendation_system/blob/master/README_inference.md">Người sử dụng</a>**: Nhu cầu sử dụng hệ thống và nhận khuyến nghị môn học.
 
 <a name="ndg"></a>
 ### Đóng góp
