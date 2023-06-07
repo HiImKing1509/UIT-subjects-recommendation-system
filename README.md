@@ -18,4 +18,4 @@ Nắm được tầm quan trọng của việc chọn lựa môn học ở trư�
     4. Điểm học phần các môn IT001, IT002, IT003, IT004, IT005, IT006, IT007 
 - Môn học truy vấn:
 - Điểm số môn học truy vấn:
-![Alt Text](images/input_output.png)
+![Alt Text](./images/input_output.png)
