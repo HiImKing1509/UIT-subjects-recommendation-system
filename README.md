@@ -10,4 +10,12 @@
 Nắm được tầm quan trọng của việc chọn lựa môn học ở trường đại học, đặc biệt là trong thời đại công nghệ 4.0 hiện nay với sự phát triển vượt bậc các mô hình học máy, chúng tôi tiến hành xây dựng một hệ thống khuyến nghị các môn học liên quan dựa trên mô hình học máy, nhằm cải thiện kết quả học tập của sinh viên trường Đại học Công nghệ Thông tin.
 
 ### Đặc trưng
+** Đầu vào ** (input):
+- Thông tin sinh viên:
+    1. Giới tính
+    2. Khoa theo học
+    3. Hệ đào tạo
+    4. Điểm học phần các môn IT001, IT002, IT003, IT004, IT005, IT006, IT007 
+- Môn học truy vấn:
+- Điểm số môn học truy vấn:
 ![Alt Text](images/input_output.png)
