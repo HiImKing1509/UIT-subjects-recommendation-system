@@ -1,3 +1,5 @@
+> <a href="https://github.com/HiImKing1509/uit_subjects_recommendation_system/blob/master/README_en.md">English here</a>
+
 <div align="center">
 
   # HỆ THỐNG KHUYẾN NGHỊ MÔN HỌC - TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
