@@ -65,3 +65,7 @@ Explanation:
 - `--query-subject-score` query subject score
 
 - `--it00[1-7]` subjects IT00[1-7] score, `-10.0` by default (haven't learned yet)
+
+### Example
+![image](https://github.com/HiImKing1509/uit_subjects_recommendation_system/assets/84212036/3b0beb9f-c0b7-49ca-8bf3-a2ad698d7752)
+
