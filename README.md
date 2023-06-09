@@ -12,6 +12,7 @@
 * [Đặc trưng](#dt)
 * [Hướng dẫn](#hdsd)
 * [Người đóng góp](#ndg)
+* [Kết quả thực nghiệm](#kqua)
 
 <a name="dlnc"></a>
 ### Động lực nghiên cứu
@@ -42,6 +43,38 @@ Chúng tôi cung cấp mã nguồn mở tại <a href=https://github.com/HiImKin
 
 - **<a href="https://github.com/HiImKing1509/uit_subjects_recommendation_system/blob/master/README_implementation.md">Nhà phát triển</a>**: Cài đặt môi trường, thực hiện nghiên cứu và điều chỉnh mã nguồn với mục tiêu cải thiện chất lượng hệ thống khuyến nghị. 
 - **<a href="https://github.com/HiImKing1509/uit_subjects_recommendation_system/blob/master/README_inference.md">Người sử dụng</a>**: Nhu cầu sử dụng hệ thống và nhận khuyến nghị môn học.
+
+<a name="kqua"></a>
+### Kết quả thực nghiệm
+___
+| Threshold get similarity Subjects    | Threshold get similarity Students          | Score |
+|:-------:|:-------------:|:----------------------:|
+|15 |	1 |	73.16 |
+|15	| 2	| 78.19 |
+|15	| 3	| 79.22 |
+|15	| 4	| 79.02 |
+|15	| 5	| 78.24 |
+|15	| 6	| 77.37 |
+|15	| 7	| 76.37 |
+|15	| 8	| 75.42 |
+|15	| 9	| 74.61 |
+|15	| 10 | 73.75 |
+|16	| 1	| 73.02 |
+|16	| 2	| 78.12 |
+|16	| 3	| 79.20 |
+|16	| 4	| 79.07 |
+|16	| 5	| 78.30 |
+|16	| 6	| 77.45 |
+|16	| 7	| 76.47 | 
+|16	| 8	| 75.53 |
+|16	| 9	| 74.73 |
+|16	| 10 | 73.88 |
+|17	| 1	| 72.97 |
+|17	| 2	| 78.19 |
+|17	| 3	| 79.34 |
+
+
+
 
 <a name="ndg"></a>
 ### Đóng góp
