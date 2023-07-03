@@ -7,13 +7,7 @@
 
 ![image](https://github.com/HiImKing1509/uit_subjects_recommendation_system/assets/84212036/8f6a314a-c8eb-4d73-8d94-90803a005665)
 
-* [Motivation](#dlnc)
-* [Features](#dt)
-* [Instruction](#hdsd)
-* [Contributors](#ndg)
-
-<a name="dlnc"></a>
-### Motivation
+### Introduction
 ___
 Understanding the importance of subject selection at university, especially in the current 4.0 technology era with the significant development of machine learning models, we build a subject recommendation system. Related subjects based on the machine learning model are expected to improve students' learning outcomes at the University of Information Technology.
 
